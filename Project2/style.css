@@ -1,0 +1,86 @@
+.page {
+    width: 1140px;
+    height: 2471px;
+    margin: 0 auto;
+  }
+
+.header1 h1 {
+    width: 1310px;
+    color: white;
+    background-color: black;
+    font-family: Times New Roman;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 95px;
+    margin-bottom: 50px;
+}
+
+.header2 h2 {
+    width: 1310px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    font-family: Times New Roman;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 53px;
+    margin-bottom: 53px;
+}
+
+.paragraph {
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 1303px;
+    margin: 53px 7px 53px 0px;
+}
+
+img {
+    width: 900px;
+    height: 600px;
+}
+
+.image {
+    margin-bottom: 50px;
+}
+
+li {
+    color: #00F;
+}
+
+.list {
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.list_with_link{
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 50px;
+}
+
+.info{
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 91px;
+}
